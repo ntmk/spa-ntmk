@@ -1,0 +1,7 @@
+.vs
+.vscode
+ter
+vendor/
+composer.json
+composer.lock
+.env
